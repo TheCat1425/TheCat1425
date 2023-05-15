@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TheCat1425
-- 👀 I’m interested in C programming and c++
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m Rafiqul islam Mahim
+- 👀 I’m already done with c and c++
+- 🌱 I’m currently learning Front end web development
 - 💞️ I’m looking to collaborate on graphics design
-- 📫 this is how you can reach me : my email: rafiqmahim37@gmail.com
+- 📫 this is how you can reach me : 
+- my email: rafiqmahim37@gmail.com
 - 
 
 <!---
